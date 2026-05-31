@@ -1,8 +1,6 @@
 <h1 align="center">Hey 👋 What's up?</h1>
 
-<p align="center">
-  <em>AI & Applied Mathematics · Machine Learning from Scratch · Computer Vision</em>
-</p>
+<h1 align="center">I'm G'ayratbek</h1>
 
 <p align="center"> 
   <img src="https://img.shields.io/badge/🎯_Target-Tokyo_🇯🇵-7c6fe0?style=for-the-badge&labelColor=0d1117" /> &nbsp;&nbsp;
