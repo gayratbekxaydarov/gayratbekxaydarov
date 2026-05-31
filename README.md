@@ -41,10 +41,10 @@
 
 ## 📊 GitHub Stats
 
-<p align="center">
+<!-- <p align="center">
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=gayratbekxaydarov&show_icons=true&theme=tokyonight&count_private=true&hide_border=false" alt="Gayratbek's GitHub Stats" />
   <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gayratbekxaydarov&layout=compact&theme=tokyonight&hide_border=false" alt="Gayratbek's Top Languages" />
-</p>
+</p> -->
 
 <p align="center">
   <img width="70%" src="https://streak-stats.demolab.com/?user=gayratbekxaydarov&theme=tokyonight&hide_border=false" />
