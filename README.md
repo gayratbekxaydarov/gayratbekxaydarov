@@ -4,10 +4,9 @@
   <em>AI & Applied Mathematics · Machine Learning from Scratch · Computer Vision</em>
 </p>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/🎯_Target-Tokyo_🇯🇵-7c6fe0?style=for-the-badge&labelColor=0d1117" />
-  &nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/🏠_Living-Japan_🇯🇵-9d8bff?style=for-the-badge&labelColor=0d1117" />
+<p align="center"> 
+  <img src="https://img.shields.io/badge/🎯_Target-Tokyo_🇯🇵-7c6fe0?style=for-the-badge&labelColor=0d1117" /> &nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/🏠_Living-Japan_🇯🇵-9d8bff?style=for-the-badge&labelColor=0d1117" /> 
 </p>
 
 ---
@@ -43,12 +42,12 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=gayratbekxaydarov&show_icons=true&theme=tokyonight&bg_color=0d1117&title_color=9d8bff&icon_color=7c6fe0&text_color=c9d1d9&border_color=30363d&count_private=true" />
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gayratbekxaydarov&layout=compact&theme=tokyonight&bg_color=0d1117&title_color=9d8bff&text_color=c9d1d9&border_color=30363d" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=gayratbekxaydarov&show_icons=true&theme=tokyonight&count_private=true&hide_border=false" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gayratbekxaydarov&layout=compact&theme=tokyonight&hide_border=false" />
 </p>
 
 <p align="center">
-  <img width="70%" src="https://github-readme-streak-stats.herokuapp.com/?user=gayratbekxaydarov&theme=tokyonight&background=0d1117&stroke=9d8bff&ring=7c6fe0&fire=ff6b6b&currStreakLabel=9d8bff&sideLabels=c9d1d9&dates=8b949e&border=30363d" />
+  <img width="70%" src="https://streak-stats.demolab.com/?user=gayratbekxaydarov&theme=tokyonight&hide_border=false" />
 </p>
 
 ---
