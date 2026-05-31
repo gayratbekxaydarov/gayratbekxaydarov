@@ -73,3 +73,26 @@
     <img src="https://img.shields.io/badge/GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
+
+---
+
+## 📈 Contribution Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=gayratbekxaydarov&theme=tokyo-night&bg_color=0d1117&color=9d8bff&line=7c6fe0&point=ff6b6b&area=true&hide_border=false" width="100%"/>
+</p>
+
+---
+
+## 🐍 Snake eating my contributions
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/gayratbekxaydarov/gayratbekxaydarov/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/gayratbekxaydarov/gayratbekxaydarov/output/github-snake.svg" />
+    <img alt="snake animation" src="https://raw.githubusercontent.com/gayratbekxaydarov/gayratbekxaydarov/output/github-snake-dark.svg" />
+  </picture>
+</p>
+
+
+
