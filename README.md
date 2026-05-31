@@ -85,13 +85,8 @@
 ---
 
 ## 🐍 Snake eating my contributions
-
 <p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/gayratbekxaydarov/gayratbekxaydarov/output/github-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/gayratbekxaydarov/gayratbekxaydarov/output/github-snake.svg" />
-    <img alt="snake animation" src="https://raw.githubusercontent.com/gayratbekxaydarov/gayratbekxaydarov/output/github-snake-dark.svg" />
-  </picture>
+  <img src="https://raw.githubusercontent.com/gayratbekxaydarov/gayratbekxaydarov/output/github-contribution-grid-snake-dark.svg" alt="GitHub Readme Snake Animation" />
 </p>
 
 
