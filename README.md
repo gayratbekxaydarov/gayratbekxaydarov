@@ -1,55 +1,66 @@
-<h1 align="center">Hey 👋 What's up?</h1>
-
-<h1 align="center">I'm G'ayratbek ❄️</h1>
+<h1 align="center">Hey 👋 I'm G'ayratbek! ❄️</h1>
 
 <p align="center">
-  <strong>A dedicated AI researcher exploring the depths of Applied Mathematics and Computer Vision.</strong><br>
+  <strong>A dedicated AI researcher exploring the depths of Applied Mathematics and Computer Vision.</strong>
 </p>
 
-<p align="center"> 
-  <img src="https://img.shields.io/badge/🎯_Target-Tokyo_🇯🇵-7c6fe0?style=for-the-badge&labelColor=0d1117" /> &nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/🏠_Living-Japan_🇯🇵-9d8bff?style=for-the-badge&labelColor=0d1117" /> 
+<p align="center">
+  <img src="https://img.shields.io/badge/🎯_Target-Tokyo_🇯🇵-7c6fe0?style=for-the-badge&labelColor=0d1117" />
+  &nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/🏠_Living-Japan_🇯🇵-9d8bff?style=for-the-badge&labelColor=0d1117" />
 </p>
 
 ---
 
 ## 💫 About Me
 
-- 🔭 **I'm currently working on:** Building a comprehensive database model for the Tashkent Metro system using 13 related tables and integrating active Computer Vision systems.
-- 🌱 **I'm currently learning:** The mathematical foundations of ML/DL algorithms and mastering the Japanese language.
-- 💬 **Ask me about:** AI, advanced mathematics, building algorithms entirely from scratch, complex SQL queries, and Linux environment troubleshooting.
+- 🔭 **I'm currently working on:** Building a comprehensive database model for the Tashkent Metro system using 13 related tables and integrating active Computer Vision systems[cite: 1].
+- 🌱 **I'm currently learning:** The mathematical foundations of ML/DL algorithms and mastering the Japanese language[cite: 1].
+- 💬 **Ask me about:** AI, advanced mathematics, building algorithms entirely from scratch, complex SQL queries, and Linux environment troubleshooting[cite: 1].
+
 ---
 
 ## 🛠 I code with
 
 <p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="50" height="50" style="margin:6px"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" alt="numpy" width="50" height="50" style="margin:6px"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" alt="pandas" width="50" height="50" style="margin:6px"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pytorch/pytorch-original.svg" alt="pytorch" width="50" height="50" style="margin:6px"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/opencv/opencv-original.svg" alt="opencv" width="50" height="50" style="margin:6px"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pycharm/pycharm-original.svg" alt="pycharm" width="50" height="50" style="margin:6px"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="vscode" width="50" height="50" style="margin:6px"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="postgresql" width="50" height="50" style="margin:6px"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="html5" width="50" height="50" style="margin:6px"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="css3" width="50" height="50" style="margin:6px"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="50" height="50" style="margin:6px"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="50" height="50" style="margin:6px"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="git" width="50" height="50" style="margin:6px"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="github" width="50" height="50" style="margin:6px"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="50" height="50" style="margin: 6px"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" alt="numpy" width="50" height="50" style="margin: 6px"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" alt="pandas" width="50" height="50" style="margin: 6px"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pytorch/pytorch-original.svg" alt="pytorch" width="50" height="50" style="margin: 6px"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/opencv/opencv-original.svg" alt="opencv" width="50" height="50" style="margin: 6px"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pycharm/pycharm-original.svg" alt="pycharm" width="50" height="50" style="margin: 6px"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="vscode" width="50" height="50" style="margin: 6px"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="postgresql" width="50" height="50" style="margin: 6px"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="html5" width="50" height="50" style="margin: 6px"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="css3" width="50" height="50" style="margin: 6px"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="50" height="50" style="margin: 6px"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="50" height="50" style="margin: 6px"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="git" width="50" height="50" style="margin: 6px"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="github" width="50" height="50" style="margin: 6px"/>
 </p>
 
 ---
 
 ## 📊 GitHub Stats
 
-<!-- <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=gayratbekxaydarov&show_icons=true&theme=tokyonight&count_private=true&hide_border=false" alt="Gayratbek's GitHub Stats" />
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gayratbekxaydarov&layout=compact&theme=tokyonight&hide_border=false" alt="Gayratbek's Top Languages" />
-</p> -->
+<p align="center">
+  <img width="70%" src="https://streak-stats.demolab.com/?user=gayratbekxaydarov&theme=tokyonight&hide_border=false" alt="GitHub Streak" />
+</p>
+
+---
+
+## 🐍 Snake Eating My Contributions
 
 <p align="center">
-  <img width="70%" src="https://streak-stats.demolab.com/?user=gayratbekxaydarov&theme=tokyonight&hide_border=false" />
+  <img src="https://raw.githubusercontent.com/gayratbekxaydarov/gayratbekxaydarov/output/github-contribution-grid-snake-dark.svg" alt="GitHub Snake Animation" />
+</p>
+
+---
+
+## 📈 Contribution Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=gayratbekxaydarov&theme=tokyo-night&bg_color=0d1117&color=9d8bff&line=7c6fe0&point=ff6b6b&area=true&hide_border=false" width="100%" alt="Activity Graph" />
 </p>
 
 ---
@@ -58,36 +69,18 @@
 
 <p align="center">
   <a href="https://t.me/acmarci" target="_blank">
-    <img src="https://img.shields.io/badge/TELEGRAM-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" />
+    <img src="https://img.shields.io/badge/TELEGRAM-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" />
   </a>
-  &nbsp;
+  &nbsp;&nbsp;
   <a href="https://linkedin.com/in/g-ayratbek-khaydarov-417555273" target="_blank">
-    <img src="https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img src="https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  &nbsp;
+  &nbsp;&nbsp;
   <a href="https://discord.com/users/1010537306010173452" target="_blank">
-    <img src="https://img.shields.io/badge/DISCORD-5865F2?style=for-the-badge&logo=discord&logoColor=white" />
+    <img src="https://img.shields.io/badge/DISCORD-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" />
   </a>
-  &nbsp;
+  &nbsp;&nbsp;
   <a href="mailto:gayratxaydarov007@gmail.com">
-    <img src="https://img.shields.io/badge/GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
   </a>
 </p>
-
----
-
-## 📈 Contribution Graph
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=gayratbekxaydarov&theme=tokyo-night&bg_color=0d1117&color=9d8bff&line=7c6fe0&point=ff6b6b&area=true&hide_border=false" width="100%"/>
-</p>
-
----
-
-## 🐍 Snake eating my contributions
-<p align="center">
-  <img src="https://raw.githubusercontent.com/gayratbekxaydarov/gayratbekxaydarov/output/github-contribution-grid-snake-dark.svg" alt="GitHub Readme Snake Animation" />
-</p>
-
-
-
