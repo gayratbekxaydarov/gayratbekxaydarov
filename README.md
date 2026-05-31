@@ -6,8 +6,8 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/🎯_Target-Tokyo_🇯🇵-7c6fe0?style=for-the-badge&labelColor=0d1117" />
-  <img src="https://img.shields.io/badge/JLPT-Journey-9d8bff?style=for-the-badge&labelColor=0d1117" />
-  <img src="https://img.shields.io/badge/ENTJ--A-Commander-5c4fe0?style=for-the-badge&labelColor=0d1117" />
+  &nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/🏠_Living-Japan_🇯🇵-9d8bff?style=for-the-badge&labelColor=0d1117" />
 </p>
 
 ---
