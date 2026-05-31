@@ -52,7 +52,7 @@
 ## 🐍 Snake Eating My Contributions
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/gayratbekxaydarov/gayratbekxaydarov/output/github-contribution-grid-snake-dark.svg" alt="GitHub Snake Animation" />
+  <img src="https://raw.githubusercontent.com/gayratbekxaydarov/gayratbekxaydarov/output/github-snake-dark.svg" alt="GitHub Snake Animation" />
 </p>
 
 ---
