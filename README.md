@@ -14,9 +14,9 @@
 
 ## 💫 About Me
 
-- 🔭 **I'm currently working on:** Building a comprehensive database model for the Tashkent Metro system using 13 related tables and integrating active Computer Vision systems[cite: 1].
-- 🌱 **I'm currently learning:** The mathematical foundations of ML/DL algorithms and mastering the Japanese language[cite: 1].
-- 💬 **Ask me about:** AI, advanced mathematics, building algorithms entirely from scratch, complex SQL queries, and Linux environment troubleshooting[cite: 1].
+- 🔭 **I'm currently working on:** Building a comprehensive database model for the Tashkent Metro system using 13 related tables and integrating active Computer Vision systems.
+- 🌱 **I'm currently learning:** The mathematical foundations of ML/DL algorithms and mastering the Japanese language.
+- 💬 **Ask me about:** AI, advanced mathematics, building algorithms entirely from scratch, complex SQL queries, and Linux environment troubleshooting.
 
 ---
 
