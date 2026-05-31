@@ -2,11 +2,11 @@ name: Generate Snake Animation
 
 on:
   schedule:
-    - cron: "0 0 * * *"   # har kuni yarim tunda yangilanadi
-  workflow_dispatch:        # qo'lda ham ishga tushirish mumkin
+    - cron: "0 0 * * *"   # Har kuni yarim tunda avtomatik yangilanadi
+  workflow_dispatch:        # Qo'lda (manual) ishga tushirish imkoniyati
   push:
     branches:
-      - main
+      - main              # Main branchga kod yuklanganda ishlaydi
 
 jobs:
   generate:
@@ -16,14 +16,16 @@ jobs:
     timeout-minutes: 10
 
     steps:
+      # GitHub contribution graph asosida ilon animatsiyasini yaratish
       - name: Generate Snake (dark)
         uses: Platane/snk/svg-only@v3
         with:
           github_user_name: gayratbekxaydarov
           outputs: |
-            dist/github-snake.svg
-            dist/github-snake-dark.svg?palette=github-dark
+            dist/github-contribution-grid-snake.svg
+            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
 
+      # Yaratilgan SVG fayllarni "output" branchiga yuklash
       - name: Push to output branch
         uses: crazy-max/ghaction-github-pages@v3.1.0
         with:
