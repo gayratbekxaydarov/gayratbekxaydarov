@@ -1,6 +1,10 @@
 <h1 align="center">Hey 👋 What's up?</h1>
 
-<h1 align="center">I'm G'ayratbek</h1>
+<h1 align="center">I'm G'ayratbek ❄️</h1>
+
+<p align="center">
+  <strong>A dedicated AI researcher exploring the depths of Applied Mathematics and Computer Vision.</strong><br>
+</p>
 
 <p align="center"> 
   <img src="https://img.shields.io/badge/🎯_Target-Tokyo_🇯🇵-7c6fe0?style=for-the-badge&labelColor=0d1117" /> &nbsp;&nbsp;
